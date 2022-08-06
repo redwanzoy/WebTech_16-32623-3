@@ -1,0 +1,164 @@
+
+body{
+	background-color:white;
+	padding:0px;
+	
+}
+
+
+
+.center{
+	margin: 0 auto;
+    width:50% ;
+	padding:20px;
+	
+	
+}	
+
+.header{
+	background-color:Black;
+	color:white;
+	text-align :center;
+	 font-size: 50px;
+	 
+}
+
+
+.center-login{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	padding-left:100px;
+	padding-right:100px;
+	padding-bottom:10px;
+	border:1px solid black;
+	border-radius:10px;
+	vertical-align:center;
+	
+			
+}
+
+.a{
+	color:white;
+	font-size:25px;
+    font-family:console;
+ 	text-decoration:none;
+}
+.my-font{
+	font-size:25px;
+	font-family:console;
+}  
+.header{
+	height:35px;
+	background-color:black;
+	top:0;
+	left:0;
+	width:100%;
+	position:fixed;
+    color:white;	
+    text-align:center;
+}
+.left-menu{
+    height:100%;
+	width:180px;
+	top:0;
+	left:0;
+	position:fixed;
+	background-color:black;
+	z-index:1;
+	padding-bottom:27px;	
+}
+.logindiv{
+	border:1px solid black;
+	margin:auto;
+	width:25%;
+	border-radius:10px;
+	margin-top:15%;
+	padding:25px;				  
+}
+.my-text-field{
+	width:150px;
+}
+.footer{
+	height:35px;
+	background-color:black;
+	bottom:0;
+	left:0;
+	width:100%;
+	position:fixed;
+	color:white;
+	text-align:center;				  
+}
+.btn-mine{
+	background-color:green;
+	padding:5px;
+	border-radius:5px;
+	color:white;
+	border:none;
+	width:100%;
+}
+.btn-mine:hover{
+	background-color:red;  
+}	 
+.btn-mine:active{
+	background-color:green;  
+}
+.err-msg{
+	color:red;
+	font-size:20px;
+	font-family:cambria;
+}
+p{
+	text-align:justify;
+}
+#p1{
+	/*color:red;
+	background-color:black;
+	font-family:consolas;
+	font-style:italic;*/
+	/*margin-top:50px;
+	margin-left:400px;
+	margin-right:100px;
+	margin-bottom:200px;*/
+	margin:20px;
+	color:yellow;
+	background-color:black;
+	font-family:verdana;
+	
+}
+#p10{
+	color:#01EFeF;
+	background-color:rgb(0,0,0);
+	font-family:calibri;
+	font-style:italic;
+	
+}
+.bd{
+	color:yellow;
+	background-color:black;
+	font-family:verdana;
+	padding:20px;
+	margin:10px;
+}
+.btn-link{
+	background-color:rgb(73,127,175);
+	font-family:calibri;
+	color:white;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-decoration:none;
+	border-radius:3px;
+}
+.btn-link:hover{
+	background-color:rgb(0,78,162);
+}
+.btn-link:active{
+	background-color:red;
+}
+
+
+
